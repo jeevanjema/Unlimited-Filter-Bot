@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
-https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot
+https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot
   </a>
   
   <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
