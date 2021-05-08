@@ -1,4 +1,4 @@
-# Unlimited Filter Bot
+# Dulquer
 
 
 <p align="center">
@@ -8,9 +8,9 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
+  <a href="https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
-
+https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot
   </a>
   
   <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
@@ -85,11 +85,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://heroku.com/deploy?template=https://github.com/jeevanjema/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
